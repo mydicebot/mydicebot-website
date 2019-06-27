@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mydicebot.com/categories/</loc>
+    <loc>https://condescending-pike-60c34a.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mydicebot.com/</loc>
+    <loc>https://condescending-pike-60c34a.netlify.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mydicebot.com/tags/</loc>
+    <loc>https://condescending-pike-60c34a.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

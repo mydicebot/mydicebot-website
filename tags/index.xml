@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo Fresh Theme</title>
-    <link>http://mydicebot.com/tags/</link>
+    <link>https://condescending-pike-60c34a.netlify.com/tags/</link>
     <description>Recent content in Tags on Hugo Fresh Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://mydicebot.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://condescending-pike-60c34a.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
