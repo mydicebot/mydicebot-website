@@ -44,5 +44,8 @@ mydicebot-win.exe
 ```
 
 * Choose Dice Site, Input username/password/2FA/APIKey, then Login.
-
 * Bet and WIN.
+
+
+
+<iframe data-aa='1101762' src='//ad.a-ads.com/1101762?size=468x60' scrolling='no' style='width:468px; height:60px; border:0px; padding:0; overflow:hidden' allowtransparency='true'></iframe>
