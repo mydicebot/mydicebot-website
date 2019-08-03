@@ -3,12 +3,12 @@ __[Back to Home Page](/)__
 # Download
 
 ## Android Edition
-* [mydicebot-190801.apk](./mydicebot-190801.apk)
+* [mydicebot-190801.apk](https://github.com/mydicebot/mydicebot.github.io/releases/download/v190801/mydicebot-190801.apk)
 
 ## Browser Edition
-* [mydicebot-190801-win.exe-x64.zip](./mydicebot-190801-win.exe-x64.zip)
-* [mydicebot-190801-macos-x64.zip](./mydicebot-190801-macos-x64.zip)
-* [mydicebot-190801-linux-x64.zip](./mydicebot-190801-linux-x64.zip)
+* [mydicebot-190801-win.exe-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases/download/v190801/mydicebot-190801-win.exe-x64.zip)
+* [mydicebot-190801-macos-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases/download/v190801/mydicebot-190801-macos-x64.zip)
+* [mydicebot-190801-linux-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases/download/v190801/mydicebot-190801-linux-x64.zip)
 
 
 

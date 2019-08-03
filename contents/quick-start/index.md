@@ -3,7 +3,7 @@ __[Back to Home Page](/)__
 
 # Quick Start
 
-* Download MyDiceBot Binaries here: [MyDiceBot Releases](https://github.com/mydicebot/mydicebot.github.io/releases).
+* Download MyDiceBot Binaries here: [MyDiceBot Releases](/contents/download).
 
 * Different execution methods on different platforms.
 

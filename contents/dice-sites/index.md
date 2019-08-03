@@ -7,9 +7,12 @@ __[Back to Home Page](/)__
 * [999Dice](https://www.999dice.com/?224280708)
 * [Bitsler](https://www.bitsler.com/?ref=mydicebot)
 * [Crypto-Games](https://www.crypto-games.net?i=CpQP3V8Up2)
+* [DuckDice](https://duckdice.com/ab61534783)
+* [Freebitco.in](https://freebitco.in/?r=16392656)
 * [PrimeDice](https://primedice.com/?c=mydicebot)
 * [Stake](https://stake.com/?code=mydicebot)
 * [YoloDice](https://yolodice.com/r?6fAf-wVz)
+* [WinDice](https://windice.io/?r=e63q8xq4y)
 
 ## Blockchain - STEEM
 * [EpicDice](https://epicdice.io/?ref=mydicebot)
@@ -25,10 +28,6 @@ __[Back to Home Page](/)__
 * [BitVest (coming soon)](https://bitvest.io?r=108792)
 
 * [Dice-Bet (coming soon)](https://dice-bet.com/?ref=u:mydicebot)
-
-* [DuckDice (coming soon)](https://duckdice.com/ab61534783)
-
-*  [Freebitco.in (coming soon)](https://freebitco.in/?r=16392656)
 
 *  [KingDice (coming soon)](https://kingdice.com/#/welcome?aff=180722)
 
