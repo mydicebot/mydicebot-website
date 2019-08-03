@@ -6,8 +6,8 @@ __[Back to Home Page](/)__
 * [mydicebot-190801.apk](./mydicebot-190801.apk)
 
 ## Browser Edition
-* [mydicebot-190801-win-x64.zip](./mydicebot-190801-win-x64.zip)
-* [mydicebot-190801-mac-x64.zip](./mydicebot-190801-mac-x64.zip)
+* [mydicebot-190801-win.exe-x64.zip](./mydicebot-190801-win.exe-x64.zip)
+* [mydicebot-190801-macos-x64.zip](./mydicebot-190801-macos-x64.zip)
 * [mydicebot-190801-linux-x64.zip](./mydicebot-190801-linux-x64.zip)
 
 
