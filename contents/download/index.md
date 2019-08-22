@@ -4,6 +4,7 @@ __[Back to Home Page](/)__
 
 ## Android Edition
 * [mydicebot-190808.apk](https://github.com/mydicebot/mydicebot.github.io/releases/download/v190808/mydicebot-190808.apk)
+<<<<<<< HEAD
 
 ## Desktop Edition
 * [mydicebot-desktop-19.8.21.exe](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-desktop-19.8.21.exe)
@@ -19,6 +20,8 @@ __[Back to Home Page](/)__
   * Open Terminal
   * chmod +x mydicebot-desktop-xxx.AppImage
   * ./mydicebot-desktop-xxx.AppImage
+=======
+>>>>>>> 551dad3dfae32da9d4816d2d66ce9ebb84ef4207
 
 ## Browser Edition
 * [mydicebot-browser-190821-win.exe-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-browser-190821-win.exe-x64.zip)
