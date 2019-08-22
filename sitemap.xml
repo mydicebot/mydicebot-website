@@ -4,17 +4,14 @@
   
   <url>
     <loc>https://mydicebot.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mydicebot.com/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mydicebot.com/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
