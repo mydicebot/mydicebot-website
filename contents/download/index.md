@@ -3,14 +3,18 @@ __[Back to Home Page](/)__
 # Download
 
 ## Android Edition
-* [mydicebot-190808.apk](https://github.com/mydicebot/mydicebot.github.io/releases/download/v190808/mydicebot-190808.apk)
+* [mydicebot-xxx.apk](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ## Desktop Edition
-* [mydicebot-desktop-19.8.21.exe](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-desktop-19.8.21.exe)
-* [mydicebot-desktop-19.8.21-x86_64.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-desktop-19.8.21-x86_64.AppImage)
-* [mydicebot-desktop-19.8.21-i386.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-desktop-19.8.21-i386.AppImage)
-* [mydicebot-desktop-19.8.21-armv7l.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-desktop-19.8.21-armv7l.AppImage)
-* [mydicebot-desktop-19.8.21-arm64.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-desktop-19.8.21-arm64.AppImage)
+
+### Windows
+* [mydicebot-desktop-xxx.exe](https://github.com/mydicebot/mydicebot.github.io/releases)
+
+### Linux
+* [mydicebot-desktop-xxx-x86_64.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
+* [mydicebot-desktop-xxx-i386.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
+* [mydicebot-desktop-xxx-armv7l.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
+* [mydicebot-desktop-xxx-arm64.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ### How to run Desktop Edition
 * Windows: 
@@ -21,9 +25,14 @@ __[Back to Home Page](/)__
   * ./mydicebot-desktop-xxx.AppImage
 
 ## Browser Edition
-* [mydicebot-browser-190821-win.exe-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-browser-190821-win.exe-x64.zip)
-* [mydicebot-browser-190821-macos-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-browser-190821-macos-x64.zip)
-* [mydicebot-browser-190821-linux-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases/download/v19.8.21/mydicebot-browser-190821-linux-x64.zip)
+### Windows
+* [mydicebot-browser-xxx-win.exe-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases)
+
+### Mac OS
+* [mydicebot-browser-xxx-macos-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases)
+
+### Linux
+* [mydicebot-browser-xxx-linux-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ### How to run Browser Edition
 * Linux 
