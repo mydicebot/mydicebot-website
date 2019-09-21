@@ -3,20 +3,28 @@ __[Back to Home Page](/)__
 # Download
 
 ## Android Edition
+
 * [mydicebot-xxx.apk](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ## Desktop Edition
 
 ### Windows
+
 * [mydicebot-desktop-xxx.exe](https://github.com/mydicebot/mydicebot.github.io/releases)
 
+### Mac OS
+
+* [mydicebot-desktop-xxx.dmg](https://github.com/mydicebot/mydicebot.github.io/releases)
+
 ### Linux
+
 * [mydicebot-desktop-xxx-x86_64.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
 * [mydicebot-desktop-xxx-i386.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
 * [mydicebot-desktop-xxx-armv7l.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
 * [mydicebot-desktop-xxx-arm64.AppImage](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ### How to run Desktop Edition
+
 * Windows: 
   * double click mydicebot-desktop-xxx.exe and it will install the MyDiceBot.
 * Linux: 
@@ -25,28 +33,33 @@ __[Back to Home Page](/)__
   * ./mydicebot-desktop-xxx.AppImage
 
 ## Browser Edition
+
 ### Windows
+
 * [mydicebot-browser-xxx-win.exe-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ### Mac OS
+
 * [mydicebot-browser-xxx-macos-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ### Linux
+
 * [mydicebot-browser-xxx-linux-x64.zip](https://github.com/mydicebot/mydicebot.github.io/releases)
 
 ### How to run Browser Edition
-* Linux 
+
+* Linux
   * Open Terminal
   * chmod +x mydicebot-linux
   * ./mydicebot-linux
 
-* Mac 
+* Mac
   * Open Terminal
   * chmod +x mydicebot-macos
   * ./mydicebot-macos
 
-* Windows 
-  * Double Click .exe File, or 
+* Windows
+  * Double Click .exe File, or
   * Open Command Prompt to execute mydicebot-win.exe
 
 
