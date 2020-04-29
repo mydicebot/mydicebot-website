@@ -1,11 +1,13 @@
-<svg width="160" height="160" xmlns="http://www.w3.org/2000/svg">
- <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="162" width="162" y="-1" x="-1"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <text transform="matrix(1, 0, 0, 1, 0, 0)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="70" id="svg_1" y="104.5" x="6" stroke-width="0" stroke="#000" fill="#007f00">BOT</text>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="160px" height="160px" viewBox="0 0 160 160" enable-background="new 0 0 160 160" xml:space="preserve">  <image id="image0" width="160" height="160" x="0" y="0"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgBAMAAAB54XoeAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAG1BMVEVArlIAAAD/7ADsxgLD
+igD////o6OjQ0ND/AABKVS8yAAAAAWJLR0QF+G/pxwAAAAd0SU1FB+QEHQYVMXQUQCoAAADSSURB
+VGje7dPBDYMwDEZhVsgKXYEVWKErsAIrdOwquVhYv1tXqIeY904hCR9cvCzJWlQWAAScH7QTdWfs
+PaKkCghYF1TTZNbaG49utfW8CghYElRTpyzVl98EBLwhuIrGASAg4FSzDAj4T9DduT56gIB1QbW6
+NHqAgNXAMKW6VdoCBJwZbMm2KP9zgIB1wee5vXf07Hb4JTmtgIDFwWGNPQemAwQsDu7nwtFz7/oD
+QMC6oA2cWWr0mujVAwS8BXhE2UUTMqMHCFgS/NzyU4CAFcE3zk8ZLnDomV0AAAAldEVYdGRhdGU6
+Y3JlYXRlADIwMjAtMDQtMjlUMDY6MjE6NDkrMDA6MDDqKrMCAAAAJXRFWHRkYXRlOm1vZGlmeQAy
+MDIwLTA0LTI5VDA2OjIxOjQ5KzAwOjAwm3cLvgAAAABJRU5ErkJggg==" />
 </svg>
