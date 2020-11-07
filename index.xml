@@ -5,10 +5,6 @@
     <link>https://mydicebot.com/</link>
     <description>Recent content on ★MyDiceBot★ - Ultimate Bitcoin Dice Bot. Bet More, Earn More!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://mydicebot.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://mydicebot.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
